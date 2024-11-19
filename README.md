@@ -1,7 +1,8 @@
 # Code for 6Sens Project : simple "Hello World!" test for my own MAMWLExx (based on STM32WLEx) board
 
 ## Overview
-This application prints "Hello World" to the console and allows us that the device tree board file is correct. The version of Zephyr RTOS used is the version v3.6.0.
+This application prints "Hello World" to the console and allows us that the device tree board file is correct.
+The version of Zephyr RTOS used is the version v3.6.0.
 
 For Zephyr documentation, please click on this link: https://docs.zephyrproject.org/3.6.0/
 
